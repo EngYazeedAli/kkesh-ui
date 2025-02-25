@@ -1,0 +1,12 @@
+.kkesh-button {
+    background-color: #003366;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  .kkesh-button:hover {
+    background-color: #002255;
+  }
+  
